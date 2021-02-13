@@ -1,3 +1,3 @@
 # gist
 
-Collection of code snippets by @Awilum.
+Collection of code snippets!
